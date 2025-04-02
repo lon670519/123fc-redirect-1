@@ -1,0 +1,16 @@
+<！DOCTYPE超文本标记语言（html）>
+<html>
+<头部>
+<meta charset="UTF-8">
+<!-- 302 临时跳转（兼容性最佳） -->
+<meta http-equiv="refresh" content="0;url=https://www.gateweb.work/signup/AAAMAMAM?ref_type=103">
+
+<！-或使用 JavaScript你想怎么样->
+<脚本>
+window.location.href = "https://www.gateweb.work/signup/AAAMAMAM?ref_type=103";
+</script>
+</头部>
+<body>
+页面跳转中...
+</body>
+</html>
